@@ -1,5 +1,5 @@
 <script setup>
-const title = 'Start project'
+const title = 'ЦЦЦЦ'
 </script>
 
 <template>
